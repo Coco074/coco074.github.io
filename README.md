@@ -1,3 +1,8 @@
+---
+title: Christian Turjuman
+description: Comp Eng Student @ TMU
+
+---
 
 Hey! I'm a Computer Engineering student @TMU currently interested in digital design, robotics, embedded systems, and audio electronics. Below you'll find some of my projects, skills and involvement in design teams.
 

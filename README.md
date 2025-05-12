@@ -1,6 +1,3 @@
----
-title: Christian Turjuman
-description: Comp Eng Student @ TMU
 
 ---
 
